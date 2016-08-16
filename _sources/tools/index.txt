@@ -1,0 +1,66 @@
+.. _tools:
+
+Tools
+#####
+
+.. raw:: html
+
+   <h3>CIS 301: Logical Foundations of Programming, Fall 2016</h3>
+
+.. include:: ../def.rst
+
+----
+
+
+Remote Desktop
+**************
+
+You can access CIS Windows machine remotely via remote desktop to 
+``remote.win.cis.ksu.edu``.
+You need to use a remote desktop software specific to your OS (e.g.,
+`win <http://apps.microsoft.com/windows/en-us/app/remote-desktop/051f560e-5e9b-4dad-8b2e-fa5e0b05a480>`__, 
+`linux <http://rdesktop.sourceforge.net/>`__, 
+`mac <https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417>`__).
+
+Note that if you are accessing ``remote.win.cis.ksu.edu`` from off-campus, you
+will need to use K-State VPN software (http://www.k-state.edu/its/security/vpn/)
+before connecting to it.
+
+
+Z3 SMT Prover
+*************
+Z3 is a high-performance Satisfiability Modulo Theories (SMT) solver being
+developed at the Research in Software Engineering (RiSE) group in Microsoft
+Research.
+
+* `Website <https://github.com/z3prover/z3/wiki>`__
+
+* `Introductory video <https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver>`__
+
+* `Online version <http://rise4fun.com/z3>`__
+
+* Offline (64-bit) version is included in Sireum Logika (see below);
+  it can be found under ``sireum-v3/apps/z3`` once Logika is installed.
+
+
+Sireum Logika
+*************
+
+Logika is a natural deduction proof checker for propositional, predicate, and programming
+logics developed by |Robby|.
+
+* Website: http://logika.sireum.org
+
+`Logika <http://logika.sireum.org/doc/01-getting-started/>`__
+and its
+`IntelliJ-based Integrated Verification Environment (LIVE) <http://logika.sireum.org/doc/02-live/>`__
+are installed in ``remote.win.ksu.edu``.
+Sireum v3 is installed in ``C:\sireum-v3`` and
+``IntelliJ IDEA Community Edition 15.0.3`` (with Scala plugin and Sireum v3 plugin)
+is accessible through the Windows Start menu's ``JetBrains`` folder.
+
+They are also available in CIS Linux labs.
+Sireum v3 is installed in ``/research/santos/sireum-v3`` and
+IntelliJ is installed in ``/research/santos/idea-IC-15.0.3``.
+To run IntelliJ in CIS Linux labs: ``/research/santos/idea-IC-15.0.3/bin/idea.sh``.
+

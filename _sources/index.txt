@@ -1,0 +1,53 @@
+.. toctree::
+   :hidden:
+
+   advice
+   schedule
+   syllabus
+   tools/index
+
+Home
+####
+
+.. raw:: html
+
+   <h3>CIS 301: Logical Foundations of Programming, Fall 2016</h3>
+
+----
+
+This course teaches the basic elements found in a formal logic including
+syntax for claims and rules for making deductions, as well as on how to 
+judge if the rules are suitable in the sense that they only lead to claims
+that match the reality of the domain that are being reasoned.
+The focus will be on formal logics for reasoning about program behavior and
+for programming directly in terms of logic.
+    
+==================================================  ====================================================================
+**Lectures**                                        T U 11:00am - 12:15pm, DUE 1109
+**Instructor**                                      `Robby <http://cs.k-state.edu/~robby>`__,
+                                                    Office:        2181 Engineering Hall
+                                                    Office Hours: TBA
+                                                    E-mail:       ``robby at k-state.edu``
+**Teaching Assistant**                              Joshua Donnoe,
+                                                    Office:       TBA,
+                                                    Office Hours: TBA,
+                                                    E-mail:       ``jbdonnoe at k-state.edu``
+**Teaching Assistant**                              Joydeep Mitra,
+                                                    Office:       TBA,
+                                                    Office Hours: TBA,
+                                                    E-mail:       ``joydeep at k-state.edu``
+**Help E-mail** (*for appointments and questions*)  ``help-301 at santoslab.org``
+                         
+==================================================  ====================================================================
+
+----
+
+* :ref:`syllabus`
+
+* :ref:`advice` (must read!)
+
+* :ref:`schedule`
+
+* `Course Notes <http://logika.sireum.org/dschmidt>`__
+
+* :ref:`tools`
