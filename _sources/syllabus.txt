@@ -58,7 +58,7 @@ Schedule
 ********
 
 :Time: Tuedays (T) & Thursdays (U), 11:00am - 12:15pm
-:Place: DUE 1109
+:Place: |DUE1109|
 
 
 Prerequisite
@@ -77,7 +77,7 @@ Instructor
 **********
 
 `Robby <http://cs.k-state.edu/~robby>`__,
-Office:       2181 Engineering Hall,
+Office:       2181 |EngHall|,
 Office Hours: TBA
 E-mail:       ``robby at k-state.edu``
 
