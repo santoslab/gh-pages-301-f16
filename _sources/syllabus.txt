@@ -50,14 +50,14 @@ security critical software, network security, and security protocols.
 Materials
 *********
 
-The `Logika online course-notes <http://logika.sireum.org/dschmidt/index.html>`__ are the main course materials.
+The `"Logika: Programming Logics" online course-notes <http://logika.sireum.org/dschmidt/index.html>`__ are the main course materials.
 Other references will be provided as the course unfolds.
 
 
 Schedule
 ********
 
-:Time: Tuedays (T) & Thursdays (U), 11:05am - 12:20pm
+:Time: Tuedays (T) & Thursdays (U), 11:00am - 12:15pm
 :Place: DUE 1109
 
 
@@ -85,9 +85,9 @@ E-mail:       ``robby at k-state.edu``
 Graduate Teaching Assistants
 ****************************
 
-* Joshua Donnoe
-  Office:       TBA
-  Office Hours: TBA
+* Joshua Donnoe,
+  Office:       TBA,
+  Office Hours: TBA,
   E-mail:       ``jbdonnoe at k-state.edu``
 
 * Joydeep Mitra,
@@ -245,5 +245,5 @@ Acknowledgment
 **************
 
 The course material, including this syllabus, is adapted from the one taught by 
-|David A. Schmidt|, |Torben Amtoft|, and ||John Hatcliff||.
+|David A. Schmidt|, |Torben Amtoft|, and |John Hatcliff|.
    
