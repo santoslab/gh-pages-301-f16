@@ -24,13 +24,13 @@ Schedule
      - Remarks
    * - 1. T: Aug 23
      - * Course Administration
-       * Introduction
+       * Course Introduction
      - * Reading: `Introduction: Why Bother? <http://logika.sireum.org/dschmidt/01-introduction/>`__
        * Tool: Install `Logika <http://logika.sireum.org>`__ `CLI <http://logika.sireum.org/doc/01-getting-started/index.html#using-sireum-v3-binary-distribution>`__
          and `IntelliJ plugin <http://logika.sireum.org/doc/02-live/index.html#live-install>`__
          (see installation videos for the
          `CLI <http://files.sireum.org/media/logika-cli.mp4>`_
-         and
+         and the
          `plugin <http://files.sireum.org/media/logika-ive.mp4>`__)
    * - 1. U: Aug 25
      - * Circuits and Truth Tables

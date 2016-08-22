@@ -78,22 +78,19 @@ Instructor
 
 `Robby <http://cs.k-state.edu/~robby>`__,
 Office:       2181 |EngHall|,
-Office Hours: TBA
-E-mail:       ``robby at k-state.edu``
+Office Hours: T 2-3:30pm (or by appointment)
 
 
 Graduate Teaching Assistants
 ****************************
 
 * Joshua Donnoe,
-  Office:       TBA,
-  Office Hours: TBA,
-  E-mail:       ``jbdonnoe at k-state.edu``
+  Office:       1119 |EngHall|,
+  Office Hours: U 3-4:30pm (or by appointment)
 
 * Joydeep Mitra,
-  Office:       TBA,
-  Office Hours: TBA,
-  E-mail:       ``joydeep at k-state.edu``
+  Office:       2206D |EngHall|,
+  Office Hours: W 2-3:30pm (or by appointment)
   
 
 Grading
