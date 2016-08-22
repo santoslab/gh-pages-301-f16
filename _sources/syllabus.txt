@@ -114,9 +114,11 @@ Final letter grades are assigned based on the following scale:
 Homeworks
 *********
 Homeworks are due almost every week and are to be submitted through
-`K-State Online <http://online.k-state.edu>`__.
-Assignments that are late will not be graded, unless in case of documented
-medical or family emergencies.
+`GitHub <https://github.com/ksu-cis-301>`__.
+Each student will be given a private repository that can be used to commit
+homework assignments.
+Assignments that are late will not be graded (based the git log),
+unless in case of documented medical or family emergencies.
 
 
 Exams

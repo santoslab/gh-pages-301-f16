@@ -25,18 +25,18 @@ The focus will be on formal logics for reasoning about program behavior and
 for programming directly in terms of logic.
     
 ==================================================  ====================================================================
-**Lectures**                                        T U 11:00am - 12:15pm, |DUE1109|
+**Lectures**                                        Tuesday (T) & Thursday (U), 11:00am - 12:15pm, |DUE1109|
 **Instructor**                                      `Robby <http://cs.k-state.edu/~robby>`__,
-                                                    Office:        2181 |EngHall|,
-                                                    Office Hours: TBA,
+                                                    Office:       2181 |EngHall|,
+                                                    Office Hours: T 2-3:30pm (or by appointment),
                                                     E-mail:       ``robby at k-state.edu``
 **Teaching Assistant**                              Joshua Donnoe,
-                                                    Office:       TBA,
-                                                    Office Hours: TBA,
+                                                    Office:       1119 |EngHall|,
+                                                    Office Hours: U 3-4:30pm (or by appointment),
                                                     E-mail:       ``jbdonnoe at k-state.edu``
 **Teaching Assistant**                              Joydeep Mitra,
-                                                    Office:       TBA,
-                                                    Office Hours: TBA,
+                                                    Office:       2206D |EngHall|,
+                                                    Office Hours: W 2-3:30pm (or by appointment),
                                                     E-mail:       ``joydeep at k-state.edu``
 **Help E-mail** (*for appointments and questions*)  ``help-301 at santoslab.org``
                          

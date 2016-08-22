@@ -26,6 +26,12 @@ Schedule
      - * Course Administration
        * Introduction
      - * Reading: `Introduction: Why Bother? <http://logika.sireum.org/dschmidt/01-introduction/>`__
+       * Tool: Install `Logika <http://logika.sireum.org>`__ `CLI <http://logika.sireum.org/doc/01-getting-started/index.html#using-sireum-v3-binary-distribution>`__
+         and `IntelliJ plugin <http://logika.sireum.org/doc/02-live/index.html#live-install>`__
+         (see installation videos for the
+         `CLI <http://files.sireum.org/media/logika-cli.mp4>`_
+         and
+         `plugin <http://files.sireum.org/media/logika-ive.mp4>`__)
    * - 1. U: Aug 25
      - * Circuits and Truth Tables
      - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
@@ -47,24 +53,19 @@ Schedule
          (up to Section 3 on Propositional Logic)
    * - 3. U: Sep 8
      - * Introduction to Natural Deduction
-         [`example <https://github.com/sireum/v3-logika-examples/blob/master/src/propositional/intro-nat-ded.logika>`__]
        * Natural Deduction -- And
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/and>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving <http://logika.sireum.org/dschmidt/07-propositional-logic/>`__ (up to Section 7.3)
    * - 4. T: Sep 13
      - * Natural Deduction -- Or
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/or>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.4) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#or-introduction-and-or-elimination>`__
    * - 4. U: Sep 15
      - * Natural Deduction -- Implies
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/implies>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.5) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
    * - 5. T: Sep 20
      - * Curry-Howard Isomorphism
      -
    * - 5. U: Sep 22
      - * Natural Deduction -- Negation
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/master/src/propositional/negation>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
        * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
    * - 6. T: Sep 27
