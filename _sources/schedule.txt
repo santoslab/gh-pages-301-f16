@@ -16,7 +16,7 @@ Schedule
 **Links:**
 
 * `Slides <https://drive.google.com/open?id=0B3opDhlww1AXejdaRFBSUXJVTEE>`__
-
+* `Exercises <https://github.com/ksu-cis-301/301f16/blob/master/exercises/>`__
 
 ----
 
@@ -40,12 +40,13 @@ Schedule
          `plugin <http://files.sireum.org/media/logika-ive.mp4>`__)
    * - 1. U: Aug 25
      - * `Circuits and Truth Tables <https://drive.google.com/file/d/0B3opDhlww1AXVmNEMkNETEVZb1k>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__]
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
+         `exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/introduction>`__]
      - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
    * - 2. T: Aug 30
      - * `Circuits and Truth Tables <https://drive.google.com/file/d/0B3opDhlww1AXVmNEMkNETEVZb1k>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__]
-       * Introduction to Propositional Logic
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
+         `exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/introduction>`__]
      - * Reading (from `Logic in Action <http://www.logicinaction.org>`__):
 
          * `Chapter 2. Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMlR2VTVGekx3Y1k>`__
@@ -54,7 +55,8 @@ Schedule
          **Deadline: September 7, 2016, 11:59pm US Central**
 
    * - 2. U: Sep 1
-     - * English Language to Propositional Logic
+     - * Introduction to Propositional Logic
+       * English Language to Propositional Logic
      - * Reading:
 
          * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__;
