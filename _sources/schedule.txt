@@ -50,6 +50,9 @@ Schedule
 
          * `Chapter 2. Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMlR2VTVGekx3Y1k>`__
          * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
+       * `Homework 1 <https://github.com/ksu-cis-301/301f16/blob/972d85290784320efec730657c85aa84740bd7d2/hw1/readme.md>`__,
+         **Deadline: September 7, 2016, 11:59pm US Central**
+
    * - 2. U: Sep 1
      - * English Language to Propositional Logic
      - * Reading:
