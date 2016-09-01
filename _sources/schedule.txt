@@ -58,7 +58,7 @@ Schedule
 
    * - 2. U: Sep 1
      - * `Introduction to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMXNBRzBzS2VaX1k>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
+         [`example <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
          `study guide <https://drive.google.com/open?id=0B3opDhlww1AXUEVSVFJHVzJMWW8>`__]
      - * Reading:
 
