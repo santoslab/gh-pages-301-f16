@@ -57,14 +57,15 @@ Schedule
          **Deadline: September 7, 2016, 11:59pm US Central**
 
    * - 2. U: Sep 1
-     - * Introduction to Propositional Logic
-       * English Language to Propositional Logic
+     - * `Introduction to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMXNBRzBzS2VaX1k>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
+         `study guide <https://drive.google.com/open?id=0B3opDhlww1AXUEVSVFJHVzJMWW8>`__]
      - * Reading:
-
          * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__;
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
    * - 3. T: Sep 6
-     - * Automatic Reasoning of Propositional Logic
+     - * English Language to Propositional Logic
+       * Automatic Reasoning of Propositional Logic
      - * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
          (up to Section 3 on Propositional Logic)
    * - 3. U: Sep 8
