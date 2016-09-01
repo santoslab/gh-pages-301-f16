@@ -61,6 +61,7 @@ Schedule
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
          `study guide <https://drive.google.com/open?id=0B3opDhlww1AXUEVSVFJHVzJMWW8>`__]
      - * Reading:
+
          * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__;
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
    * - 3. T: Sep 6
