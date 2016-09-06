@@ -65,12 +65,13 @@ Schedule
          * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__;
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
    * - 3. T: Sep 6
-     - * English Language to Propositional Logic
-       * Automatic Reasoning of Propositional Logic
+     - * `English Language to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXNk1TRld1a05LOGM>`__
+         [`exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/natural-deduction/NatDed-01X-English-to-Propositional-Logic.pdf>`__
      - * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
          (up to Section 3 on Propositional Logic)
    * - 3. U: Sep 8
-     - * Introduction to Natural Deduction
+     - * Automatic Reasoning of Propositional Logic
+       * Introduction to Natural Deduction
        * Natural Deduction -- And
      - * Reading: `Applications of Propositional Logic to Program Proving <http://logika.sireum.org/dschmidt/07-propositional-logic/>`__ (up to Section 7.3)
    * - 4. T: Sep 13
