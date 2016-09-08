@@ -70,7 +70,7 @@ Schedule
      - * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
          (up to Section 3 on Propositional Logic)
    * - 3. U: Sep 8
-     - * Automatic Reasoning of Propositional Logic
+     - * `Automatic Reasoning of Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXdTdlbTc0WF9MMlU>`__
          [`example <https://drive.google.com/open?id=0B3opDhlww1AXblhmYklYMnRockk>`__]
        * Introduction to Natural Deduction
        * Natural Deduction -- And
