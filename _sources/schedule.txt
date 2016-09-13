@@ -71,7 +71,8 @@ Schedule
          (up to Section 3 on Propositional Logic)
    * - 3. U: Sep 8
      - * `Automatic Reasoning of Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXdTdlbTc0WF9MMlU>`__
-         [`example <https://drive.google.com/open?id=0B3opDhlww1AXblhmYklYMnRockk>`__]
+         [`example <https://drive.google.com/open?id=0B3opDhlww1AXblhmYklYMnRockk>`__,
+         `exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/natural-deduction/NatDed-02X-Automatic-Reasoning-for-Propositional-Logic.smt>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving <http://logika.sireum.org/dschmidt/07-propositional-logic/>`__ (up to Section 7.3)
        * `Homework 2 <https://github.com/ksu-cis-301/301f16/blob/master/hw2/readme.md>`__,
          **Deadline: September 19, 2016, 11:59pm US Central**
@@ -80,7 +81,6 @@ Schedule
        * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXVHpiRjlOWmhZQzg>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/and>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.4) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#or-introduction-and-or-elimination>`__
-       * `Z3 In-Class Guided Exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/natural-deduction/NatDed-02X-Automatic-Reasoning-for-Propositional-Logic.smt>`__
    * - 4. U: Sep 15
      - * Natural Deduction -- And
        * Natural Deduction -- Or
