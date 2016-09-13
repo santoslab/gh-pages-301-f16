@@ -98,10 +98,10 @@ Schedule
      -
    * - 7. T: Oct 4
      - * **Exam 1**
-     -
+     - * **Instructor Travel**
    * - 7. U: Oct 6
-     -
-     -
+     - * Exam 1 Discussion
+     - * **Instructor Travel**
    * - 8. T: Oct 11
      -
      -
