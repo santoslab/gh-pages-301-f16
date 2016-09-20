@@ -89,8 +89,10 @@ Schedule
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/or>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.5) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
    * - 5. T: Sep 20
-     - * Natural Deduction -- Implies
-       * Natural Deduction -- Negation
+     - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B3opDhlww1AXWU1KV3R2NEVGdmc>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/implies>`__]
+       * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXWXhjdmZUZTBydlU>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/negation>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
        * `Homework 3 <https://github.com/ksu-cis-301/301f16/blob/master/hw3/readme.md>`__,
          **Deadline: September 30, 2016, 11:59pm US Central**
