@@ -98,11 +98,10 @@ Schedule
          **Deadline: September 30, 2016, 11:59pm US Central**
    * - 5. U: Sep 22
      - * Natural Deduction -- Negation
-       * Curry-Howard Isomorphism
-     - * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
+     -
    * - 6. T: Sep 27
      - * Curry-Howard Isomorphism
-     -
+     - * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
    * - 6. U: Sep 29
      - * Review for Exam 1
      -
