@@ -17,6 +17,7 @@ Schedule
 
 * `Slides <https://drive.google.com/open?id=0B3opDhlww1AXejdaRFBSUXJVTEE>`__
 * `Exercises <https://github.com/ksu-cis-301/301f16/blob/master/exercises/>`__
+* `Study Guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__
 
 ----
 
@@ -108,7 +109,8 @@ Schedule
      -
    * - 7. T: Oct 4
      - * **Exam 1**
-         [`References <https://drive.google.com/open?id=0B3opDhlww1AXT0pwcThaNVR5VXc>`__]
+         [`references <https://drive.google.com/open?id=0B3opDhlww1AXT0pwcThaNVR5VXc>`__,
+         `study guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__]
      - * **Instructor Travel**
    * - 7. U: Oct 6
      - * Exam 1 Discussion
