@@ -114,31 +114,31 @@ Schedule
      - * Exam 1 Discussion
      - * **Instructor Travel**
    * - 8. T: Oct 11
-     -
+     - * Quantifications by Example
      -
    * - 8. U: Oct 13
-     -
+     - * Introduction to Predicate Logic
      -
    * - 9. T: Oct 18
-     -
+     - * Introduction to Predicate Logic
      -
    * - 9. U: Oct 20
-     -
+     - * Algebra
      -
    * - 10. T: Oct 25
-     -
+     - * Programming Logic for Assignment
      -
    * - 10. U: Oct 27
-     -
+     - * Programming Logic for Conditional
      -
    * - 11. T: Nov 1
      -
      -
    * - 11. U: Nov 3
-     -
+     - * Review for Exam 2
      -
    * - 12. T: Nov 8
-     -
+     - * **Exam 2**
      -
    * - 12. U: Nov 10
      -
