@@ -117,19 +117,19 @@ Schedule
      -
    * - 8. U: Oct 13
      - * Introduction to Predicate Logic
-     -
+     - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
    * - 9. T: Oct 18
      - * Introduction to Predicate Logic
-     -
+     - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
    * - 9. U: Oct 20
      - * Algebra
-     -
+     - * Reading: `Circuits that Compute on Numbers: Algebra <http://logika.sireum.org/dschmidt/03-algebra/index.html>`__
    * - 10. T: Oct 25
      - * Programming Logic for Assignment
-     -
+     - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
    * - 10. U: Oct 27
      - * Programming Logic for Conditional
-     -
+     - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
    * - 11. T: Nov 1
      -
      -
