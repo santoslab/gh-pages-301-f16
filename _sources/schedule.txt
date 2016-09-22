@@ -97,7 +97,8 @@ Schedule
        * `Homework 3 <https://github.com/ksu-cis-301/301f16/blob/master/hw3/readme.md>`__,
          **Deadline: September 30, 2016, 11:59pm US Central**
    * - 5. U: Sep 22
-     - * Natural Deduction -- Negation
+     - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXWXhjdmZUZTBydlU>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/negation>`__]
      -
    * - 6. T: Sep 27
      - * Curry-Howard Isomorphism
