@@ -102,7 +102,8 @@ Schedule
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/negation>`__]
      -
    * - 6. T: Sep 27
-     - * Curry-Howard Isomorphism
+     - * `Curry-Howard Isomorphism <https://drive.google.com/open?id=0B3opDhlww1AXaXJGYnVKRXJWTnM>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/propositional/curry-howard-isomorphism.sc>`__]
      - * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
    * - 6. U: Sep 29
      - * Review for Exam 1
