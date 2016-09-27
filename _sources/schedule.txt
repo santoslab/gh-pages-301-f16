@@ -16,7 +16,15 @@ Schedule
 **Links:**
 
 * `Slides <https://drive.google.com/open?id=0B3opDhlww1AXejdaRFBSUXJVTEE>`__
+
+* Examples:
+
+  * `Truth Table <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__
+
+  * `Propositional Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional>`__
+
 * `Exercises <https://github.com/ksu-cis-301/301f16/blob/master/exercises/>`__
+
 * `Study Guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__
 
 ----
