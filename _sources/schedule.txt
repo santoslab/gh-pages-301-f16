@@ -99,12 +99,15 @@ Schedule
          **Deadline: September 30, 2016, 11:59pm US Central**
    * - 5. U: Sep 22
      - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXWXhjdmZUZTBydlU>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/negation>`__]
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/negation>`__,
+         `FYTD #4 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-07Y-Natural-Deduction-Negation-4.logika>`__,
+         `FYTD #5 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-07Y-Natural-Deduction-Negation-5.logika>`__]
      -
    * - 6. T: Sep 27
      - * `Curry-Howard Isomorphism <https://drive.google.com/open?id=0B3opDhlww1AXaXJGYnVKRXJWTnM>`__
          [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/propositional/curry-howard-isomorphism.sc>`__]
      - * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
+       * `Exercises <https://github.com/ksu-cis-301/301f16/tree/master/exercises/natural-deduction>`__
    * - 6. U: Sep 29
      - * Review for Exam 1
      -
