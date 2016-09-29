@@ -83,7 +83,7 @@ Schedule
          [`example <https://drive.google.com/open?id=0B3opDhlww1AXblhmYklYMnRockk>`__,
          `exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/natural-deduction/NatDed-02X-Automatic-Reasoning-for-Propositional-Logic.smt>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving <http://logika.sireum.org/dschmidt/07-propositional-logic/>`__ (up to Section 7.3)
-       * `Homework 2 <https://github.com/ksu-cis-301/301f16/blob/master/hw2/readme.md>`__,
+       * `Homework 2 <https://github.com/ksu-cis-301/301f16/tree/master/hw2>`__,
          **Deadline: September 19, 2016, 11:59pm US Central**
    * - 4. T: Sep 13
      - * `Introduction to Natural Deduction <https://drive.google.com/open?id=0B3opDhlww1AXTmJjaWhkSlBDWjg>`__
