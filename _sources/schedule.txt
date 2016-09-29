@@ -103,7 +103,7 @@ Schedule
        * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXWXhjdmZUZTBydlU>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/negation>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
-       * `Homework 3 <https://github.com/ksu-cis-301/301f16/blob/master/hw3/readme.md>`__,
+       * `Homework 3 <https://github.com/ksu-cis-301/301f16/blob/master/hw3>`__,
          **Deadline: September 30, 2016, 11:59pm US Central**
    * - 5. U: Sep 22
      - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXWXhjdmZUZTBydlU>`__
