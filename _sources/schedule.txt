@@ -128,7 +128,9 @@ Schedule
      - * Exam 1 Discussion
      - * **Instructor Travel**
    * - 8. T: Oct 11
-     - * Quantifications by Example
+     - * `Quantifications by Example <https://github.com/ksu-cis-301/301f16/blob/master/examples/quantifications.sc>`__
+         [`java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Quantifications.java>`__]
+       * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXcGJFelJ2YXFZeUU>`__
      -
    * - 8. U: Oct 13
      - * Introduction to Predicate Logic
