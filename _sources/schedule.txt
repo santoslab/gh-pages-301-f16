@@ -80,7 +80,7 @@ Schedule
          (up to Section 3 on Propositional Logic)
    * - 3. U: Sep 8
      - * `Automatic Reasoning of Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXdTdlbTc0WF9MMlU>`__
-         [`example <https://drive.google.com/open?id=0B3opDhlww1AXblhmYklYMnRockk>`__,
+         [`example <https://github.com/ksu-cis-301/301f16/blob/master/examples/NatDed-02-Automatic-Reasoning-for-Propositional-Logic.smt>`__,
          `exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/natural-deduction/NatDed-02X-Automatic-Reasoning-for-Propositional-Logic.smt>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving <http://logika.sireum.org/dschmidt/07-propositional-logic/>`__ (up to Section 7.3)
        * `Homework 2 <https://github.com/ksu-cis-301/301f16/tree/master/hw2>`__,
@@ -131,9 +131,13 @@ Schedule
      - * `Quantifications by Example <https://github.com/ksu-cis-301/301f16/blob/master/examples/quantifications.sc>`__
          [`java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Quantifications.java>`__]
        * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXcGJFelJ2YXFZeUU>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
+         `Z3 examples <https://github.com/ksu-cis-301/301f16/tree/master/examples/NatDed-09-Intro-to-Predicate-Logic>`__]
      -
    * - 8. U: Oct 13
-     - * Introduction to Predicate Logic
+     - * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXcGJFelJ2YXFZeUU>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
+         `Z3 examples <https://github.com/ksu-cis-301/301f16/tree/master/examples/NatDed-09-Intro-to-Predicate-Logic>`__]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
        * `Homework 4 <https://github.com/ksu-cis-301/301f16/blob/master/hw4>`__,
          **Deadline: October 24, 2016, 11:59pm US Central**
