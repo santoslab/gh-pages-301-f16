@@ -141,7 +141,7 @@ Schedule
        * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXcGJFelJ2YXFZeUU>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
          `Z3 examples <https://github.com/ksu-cis-301/301f16/tree/master/examples/NatDed-09-Intro-to-Predicate-Logic>`__]
-     -
+     - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
    * - 8. U: Oct 13
      - * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXcGJFelJ2YXFZeUU>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
@@ -150,17 +150,17 @@ Schedule
        * `Homework 4 <https://github.com/ksu-cis-301/301f16/blob/master/hw4>`__,
          **Deadline: October 24, 2016, 11:59pm US Central**
    * - 9. T: Oct 18
-     - * Introduction to Predicate Logic
-     - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
-   * - 9. U: Oct 20
      - * Algebra
      - * Reading: `Circuits that Compute on Numbers: Algebra <http://logika.sireum.org/dschmidt/03-algebra/index.html>`__
-   * - 10. T: Oct 25
+   * - 9. U: Oct 20
      - * Programming Logic for Assignment
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
-   * - 10. U: Oct 27
+   * - 10. T: Oct 25
      - * Programming Logic for Conditional
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
+   * - 10. U: Oct 27
+     -
+     -
    * - 11. T: Nov 1
      -
      -
