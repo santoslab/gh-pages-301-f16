@@ -120,7 +120,7 @@ Schedule
      - * Review for Exam 1
      -
    * - 7. T: Oct 4
-     - * **Exam 1**
+     - * `Exam 1 <https://github.com/ksu-cis-301/301f16/tree/master/exams/exam1>`__
          [`references <https://drive.google.com/open?id=0B3opDhlww1AXT0pwcThaNVR5VXc>`__,
          `study guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__]
      - * **Instructor Travel**
@@ -135,6 +135,8 @@ Schedule
    * - 8. U: Oct 13
      - * Introduction to Predicate Logic
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
+       * `Homework 4 <https://github.com/ksu-cis-301/301f16/blob/master/hw4>`__,
+         **Deadline: October 24, 2016, 11:59pm US Central**
    * - 9. T: Oct 18
      - * Introduction to Predicate Logic
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
