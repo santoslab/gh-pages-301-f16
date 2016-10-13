@@ -23,11 +23,7 @@ Schedule
 
   * `Propositional Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional>`__
 
-  * Predicate Logic
-
-    * `Universal <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate/universal>`__
-
-    * `Existential <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate/existential>`__
+  * `Predicate Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__
 
   * `More ... <https://github.com/ksu-cis-301/301f16/tree/master/examples>`__
 
