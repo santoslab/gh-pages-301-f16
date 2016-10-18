@@ -140,15 +140,18 @@ Schedule
          [`java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Quantifications.java>`__]
        * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXcGJFelJ2YXFZeUU>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
-         `Z3 examples <https://github.com/ksu-cis-301/301f16/tree/master/examples/NatDed-09-Intro-to-Predicate-Logic>`__]
+         `Z3 examples <https://github.com/ksu-cis-301/301f16/tree/master/examples/NatDed-09-Intro-to-Predicate-Logic>`__,
+         `FYTD #1 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-1.logika>`__,
+         `FYTD #2 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-2.logika>`__,
+         `FYTD #3 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-3.logika>`__]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
    * - 8. U: Oct 13
      - * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXcGJFelJ2YXFZeUU>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
+         `Z3 examples <https://github.com/ksu-cis-301/301f16/tree/master/examples/NatDed-09-Intro-to-Predicate-Logic>`__,
          `FYTD #1 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-1.logika>`__,
          `FYTD #2 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-2.logika>`__,
-         `FYTD #3 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-3.logika>`__,
-         `Z3 examples <https://github.com/ksu-cis-301/301f16/tree/master/examples/NatDed-09-Intro-to-Predicate-Logic>`__]
+         `FYTD #3 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-3.logika>`__]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
        * `Homework 4 <https://github.com/ksu-cis-301/301f16/blob/master/hw4>`__,
          **Deadline: October 24, 2016, 11:59pm US Central**
