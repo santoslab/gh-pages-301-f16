@@ -167,11 +167,11 @@ Schedule
      - * Programming Logic for Conditional
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
    * - 10. U: Oct 27
-     - * Functions and Procedures
-     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
+     - * Programming Logic for While-Loop
+     - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/index.html>`__
    * - 11. T: Nov 1
-     - * Functions and Procedures
-     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
+     - * Sequences
+     -
    * - 11. U: Nov 3
      - * Review for Exam 2
      -
@@ -182,11 +182,11 @@ Schedule
      -
      -
    * - 13. T: Nov 15
-     -
-     -
+     - * Functions and Procedures
+     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - 13. U: Nov 17
-     -
-     -
+     - * Functions and Procedures
+     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - A. **Thanksgiving Break**
      -
      -
