@@ -170,7 +170,7 @@ Schedule
      - * Programming Logic for While-Loop
      - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/index.html>`__
    * - 11. T: Nov 1
-     - * Sequences
+     - * Auto and Sequences
      -
    * - 11. U: Nov 3
      - * Review for Exam 2
@@ -179,28 +179,29 @@ Schedule
      - * **Exam 2** [`references <https://drive.google.com/open?id=0B3opDhlww1AXUl9KZE0tR2hWQkk>`__]
      -
    * - 12. U: Nov 10
-     -
-     -
+     - * Functions and Procedures
+     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - 13. T: Nov 15
      - * Functions and Procedures
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - 13. U: Nov 17
      - * Functions and Procedures
+       * Exam 2 Discussion
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - A. **Thanksgiving Break**
      -
      -
    * - 14. T: Nov 29
-     -
+     - * Recursion
      -
    * - 14. U: Dec 1
-     -
+     - * Case Studies
      -
    * - 15. T: Dec 6
-     -
+     - * Real World Applications
      -
    * - 15. U: Dec 8
-     -
+     - * Review for Final Exam
      -
    * - 16. W: Dec 14
      - `Final Exam Time: 9:40am - 11:30am <https://courses.k-state.edu/fall2016/information/xam.html>`__
