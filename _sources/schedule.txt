@@ -159,12 +159,15 @@ Schedule
      - * `Algebra <https://drive.google.com/open?id=0B3opDhlww1AXZ2hvM2FubElmM0k>`__
          [`Z3 examples <https://github.com/ksu-cis-301/301f16/blob/master/examples/ProgLogic-00-Algebra.smt>`__]
        * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming>`__]
      - * Reading: `Circuits that Compute on Numbers: Algebra <http://logika.sireum.org/dschmidt/03-algebra/index.html>`__
    * - 9. U: Oct 20
-     - * Programming Logic for Assignment
+     - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming>`__]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
    * - 10. T: Oct 25
-     - * Programming Logic for Conditional
+     - * Programming Logic for Assignment
+       * Programming Logic for Conditional
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
    * - 10. U: Oct 27
      - * Programming Logic for While-Loop
