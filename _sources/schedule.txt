@@ -198,7 +198,7 @@ Schedule
      - * Case Studies
      -
    * - 15. T: Dec 6
-     - * Real World Applications
+     -
      -
    * - 15. U: Dec 8
      - * Review for Final Exam
