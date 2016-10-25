@@ -168,7 +168,7 @@ Schedule
    * - 10. T: Oct 25
      - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming>`__]
-       * Programming Logic for Conditionals and Loops
+       * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming>`__]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
        * `Homework 5 <https://github.com/ksu-cis-301/301f16/blob/master/hw5>`__,
