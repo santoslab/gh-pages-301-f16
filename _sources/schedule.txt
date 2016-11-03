@@ -197,7 +197,8 @@ Schedule
      -
    * - 12. T: Nov 8
      - * **Exam 2** [`references <https://drive.google.com/open?id=0B3opDhlww1AXUl9KZE0tR2hWQkk>`__]
-     -
+     - `Homework 6 <https://github.com/ksu-cis-301/301f16/blob/master/hw6>`__,
+       **Deadline: November 18, 2016, 11:59pm US Central**
    * - 12. U: Nov 10
      - * Functions and Procedures
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
