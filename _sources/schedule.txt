@@ -218,10 +218,10 @@ Schedule
      - * Recursion
      -
    * - 14. U: Dec 1
-     - * Case Studies
+     - * Termination
      -
    * - 15. T: Dec 6
-     -
+     - *
      -
    * - 15. U: Dec 8
      - * Review for Final Exam
