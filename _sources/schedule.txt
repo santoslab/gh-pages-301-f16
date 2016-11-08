@@ -224,7 +224,8 @@ Schedule
      - *
      -
    * - 15. U: Dec 8
-     - * Review for Final Exam
+     - * Closing Remarks
+       * Review for Final Exam
      -
    * - 16. W: Dec 14
      - `Final Exam Time: 9:40am - 11:30am <https://courses.k-state.edu/fall2016/information/xam.html>`__
