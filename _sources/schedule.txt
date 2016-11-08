@@ -196,7 +196,7 @@ Schedule
      - * Review for Exam 2
      -
    * - 12. T: Nov 8
-     - * **Exam 2**
+     - * `Exam 2 <https://github.com/ksu-cis-301/301f16/tree/master/exams/exam2>`__
          [`references <https://drive.google.com/open?id=0B3opDhlww1AXUl9KZE0tR2hWQkk>`__,
          `study guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__]
      - * `Homework 6 <https://github.com/ksu-cis-301/301f16/blob/master/hw6>`__,
