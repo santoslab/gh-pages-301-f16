@@ -202,7 +202,7 @@ Schedule
      - * `Homework 6 <https://github.com/ksu-cis-301/301f16/blob/master/hw6>`__,
          **Deadline: November 18, 2016, 11:59pm US Central**
    * - 12. U: Nov 10
-     - * Functions and Procedures
+     - * `Functions and Procedures <https://drive.google.com/open?id=0B3opDhlww1AXbkVOWFhYUXVRVDg>`__
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - 13. T: Nov 15
      - * Functions and Procedures
