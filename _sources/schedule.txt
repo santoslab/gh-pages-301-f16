@@ -230,7 +230,7 @@ Schedule
        * Review for Final Exam
      -
    * - 15. U: Dec 8
-     - * `Programming Logic in the Real World Applications <https://drive.google.com/open?id=0B3opDhlww1AXdHhlVFZ1M2lVaFU>`__
+     - * `Programming Logic in Real Life <https://drive.google.com/open?id=0B3opDhlww1AXdHhlVFZ1M2lVaFU>`__
        * `Evidence-based Trust of SymExe-based Verification <https://k-state.instructure.com/courses/24981/files/folder/Videos?preview=3218115>`__
      -
    * - 16. W: Dec 14
