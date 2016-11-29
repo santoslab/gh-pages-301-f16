@@ -220,16 +220,18 @@ Schedule
      -
    * - 14. T: Nov 29
      - * Recursion
-     -
+     - * `Homework 7 <https://github.com/ksu-cis-301/301f16/blob/master/hw7>`__,
+         **Deadline: December 11, 2016, 11:59pm US Central**
    * - 14. U: Dec 1
      - * Termination
      -
    * - 15. T: Dec 6
-     - *
-     -
-   * - 15. U: Dec 8
      - * Closing Remarks
        * Review for Final Exam
+     -
+   * - 15. U: Dec 8
+     - * `Programming Logic in the Real World Applications <https://drive.google.com/open?id=0B3opDhlww1AXdHhlVFZ1M2lVaFU>`__
+       * `Evidence-based Trust of SymExe-based Verification <https://k-state.instructure.com/courses/24981/files/folder/Videos?preview=3218115>`__
      -
    * - 16. W: Dec 14
      - `Final Exam Time: 9:40am - 11:30am <https://courses.k-state.edu/fall2016/information/xam.html>`__
