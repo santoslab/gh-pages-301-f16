@@ -219,7 +219,11 @@ Schedule
      -
      -
    * - 14. T: Nov 29
-     - * Recursion
+     - * `Recursion <https://drive.google.com/open?id=0B3opDhlww1AXUUE5NnpUWHhtTTQ>`__
+         [examples: `#1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/recursion-1.logika>`__,
+         `#2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/recursion-2.logika>`__,
+         `#3 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/recursion-3.logika>`__,
+         `#4 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/recursion-4.logika>`__]
      - * `Homework 7 <https://github.com/ksu-cis-301/301f16/blob/master/hw7>`__,
          **Deadline: December 11, 2016, 11:59pm US Central**
    * - 14. U: Dec 1
