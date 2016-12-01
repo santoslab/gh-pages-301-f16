@@ -227,7 +227,10 @@ Schedule
      - * `Homework 7 <https://github.com/ksu-cis-301/301f16/blob/master/hw7>`__,
          **Deadline: December 11, 2016, 11:59pm US Central**
    * - 14. U: Dec 1
-     - * Termination
+     - * `Termination <https://drive.google.com/open?id=0B3opDhlww1AXU3J0LVl3LUl2OHM>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__,
+         Collatz: `Logika <https://github.com/ksu-cis-301/301f16/blob/master/examples/collatz.sc>`__,
+         `Java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Collatz.java>`__]
      -
    * - 15. T: Dec 6
      - * Closing Remarks
