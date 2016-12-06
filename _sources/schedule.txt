@@ -241,7 +241,9 @@ Schedule
        * `Evidence-based Trust of SymExe-based Verification <https://k-state.instructure.com/courses/24981/files/folder/Videos?preview=3218115>`__
      -
    * - 16. W: Dec 14
-     - `Final Exam Time: 9:40am - 11:30am <https://courses.k-state.edu/fall2016/information/xam.html>`__
+     - * `Final Exam, Time: 9:40am - 11:30am <https://courses.k-state.edu/fall2016/information/xam.html>`__
+         [`references <https://drive.google.com/open?id=0B3opDhlww1AXQTdTSmFFTVJuLVk>`__,
+         `study guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__]
      -
 
 ----
